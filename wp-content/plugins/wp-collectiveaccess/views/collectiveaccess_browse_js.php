@@ -1,1 +1,0 @@
-<?php include(_DIR__.'/collectiveaccess_js.php'); ?>
